@@ -10,7 +10,7 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-
+            int a = 0;
         }
     }
 }
